@@ -17,7 +17,7 @@
     </dependencies>
 
     <properties>
-        <remote.server>157.230.109.198:8081/manager/text</remote.server>
+        <remote.server>http://157.230.109.198:8081/manager/text</remote.server>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
